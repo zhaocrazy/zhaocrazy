@@ -1,5 +1,5 @@
 ### Hi there 👋
-- this peter zhao
+- This is peter zhao
 
 - I’m currently working on shenzhen
 
