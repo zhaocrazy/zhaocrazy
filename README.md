@@ -1,11 +1,11 @@
 ### Hi there 👋
 - This is peter zhao
 
-- I’m currently working on shenzhen
+- I’m currently working on Guangdong
 
 - My coding language is Node & Go  and  Now I am learning english
 
-- I Will  do better in coding I hope we could together
+- I will  do better in coding  and I hope we could together
 
 <!--
 **zhaocrazy/zhaocrazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
