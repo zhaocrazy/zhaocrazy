@@ -3,7 +3,7 @@
 
 - I’m currently working on Guangdong
 
-- My coding language is Node & Go  and  Now I am learning english
+- My coding language is PHP Node & Go  and  Now I am learning english
 
 - I will  do better in coding  and I hope we could together
 
